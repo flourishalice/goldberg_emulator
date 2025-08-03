@@ -206,15 +206,8 @@ inline std::string ascii_to_lowercase(std::string data) {
 #define CLIENT_HSTEAMUSER 1
 #define SERVER_HSTEAMUSER 1
 
-#define DEFAULT_NAME "Noob"
-#define PROGRAM_NAME_1 "Go"
-#define PROGRAM_NAME_2 "ld"
-#define PROGRAM_NAME_3 "be"
-#define PROGRAM_NAME_4 "rg "
-#define PROGRAM_NAME_5 "St"
-#define PROGRAM_NAME_6 "ea"
-#define PROGRAM_NAME_7 "mE"
-#define PROGRAM_NAME_8 "mu"
+#define DEFAULT_NAME "User"
+#define PROGRAM_NAME "SteamVault"
 
 #define DEFAULT_LANGUAGE "english"
 
